@@ -1,3 +1,7 @@
+Laravel練習のため、以下書籍を写経。
+https://www.amazon.co.jp/%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-Laravel%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80-NEXT-ONE-%E5%B1%B1%E5%B4%8E/dp/4798168653/ref=pd_vtp_3/356-6323936-5431345?pd_rd_w=G1o9C&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=6835726QKY9EVF1EXZFD&pd_rd_r=b761cbb7-bdb0-4656-b03f-ba3c5039b813&pd_rd_wg=4qRZp&pd_rd_i=4798168653&psc=1
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
